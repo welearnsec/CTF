@@ -1,0 +1,12 @@
+root:toor
+root:root
+pink:pototoy
+xss:sqli
+sqli:ping
+hackerman:hackerman
+admin:admin
+user1:user1
+username:password
+kuya:wil
+
+
